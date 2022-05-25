@@ -1,3 +1,6 @@
+
+
+
 # FindItAi
 
 FindItAi is a convolutional neural network that can identify what city a picture was taken in. It was trained using google streetview images and utilizes alexnet as a feature learner followed by a fully connected layer. 
